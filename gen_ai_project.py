@@ -17,8 +17,8 @@ from langgraph.graph import StateGraph
 
 # === Credentials ===
 os.environ["OPENAI_API_KEY"] = "sk-..."  # Replace with your OpenAI API Key
-SENDER_EMAIL = "csushobhit5515@gmail.com"
-SENDER_PASSWORD = "aortdvalcminvsnw"
+SENDER_EMAIL = "..........@............"
+SENDER_PASSWORD = ".................."
 
 # === Constants ===
 DATA_FILE = "admission_data_v2.json"
